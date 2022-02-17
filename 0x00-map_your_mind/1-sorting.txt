@@ -1,0 +1,2 @@
+1 add numbers to list and assign it to a variable2 use a sorting method to sort the list 
+3 display the sorted list

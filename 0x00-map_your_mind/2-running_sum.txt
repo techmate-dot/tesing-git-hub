@@ -1,0 +1,5 @@
+1 initialize sum to 0
+2 get user input and assign it to number
+3 assign sum plus number(users input) to sum  known as iteration
+4 repeat line 2 and 3 until input is negative
+5 display sum
