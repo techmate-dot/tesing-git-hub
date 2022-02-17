@@ -1,6 +1,5 @@
 #this is the readme file for the alx_course
 
-#test
 
 
 
