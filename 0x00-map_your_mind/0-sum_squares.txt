@@ -1,0 +1,5 @@
+1 Assign sum to a value of 0
+2 Get the user's input and assign it to number 
+3 Assign sum to sum plus the square of number(user input)
+4 Reapeat step 2 and 3 until user stops to input a number
+5 display sum
